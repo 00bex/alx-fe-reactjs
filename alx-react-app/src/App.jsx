@@ -15,10 +15,11 @@ function App() {
   return (
     <>
        <WelcomeMessage/>
+       <Header/>
+       <MainContent/>
+       <Footer/>
       <div>
-        <Header/>
-        <MainContent/>
-        <Footer/>
+        
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
