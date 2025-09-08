@@ -5,7 +5,7 @@ import MainContent from './components/MainContent';
 import Footer from './components/Footer';
 import UserProfile from './components/UserProfile';
 import ProfilePage from './components/ProfilePage.jsx'
-import UserContext from './UserContext.js'
+import UserContext from './components/UserContext.js'
 
 function App() {
  
